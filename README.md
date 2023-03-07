@@ -7,7 +7,8 @@ ___
 
 ## DEPLOY DI HEROKU
 
-<p align="center"><a href="https://ice-iota-kohl.vercel.app"><img src="https://telegra.ph/file/6630257821911f10089b5.jpg" /></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ragnarobot/RACHELXMUSIK"> <img 
+src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=a2Vua2Fuc2FqYS9NdXNpa2t1IE11c2lra3U"><img src="https://telegra.ph/file/70966bb4b212649afc8dc.jpg" /></a></p>
 
 
